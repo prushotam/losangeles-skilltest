@@ -1,0 +1,17 @@
+// Override default variables before the import
+// $body-bg: #000;
+// $padding-base: 0;
+
+// Import Bootstrap and its default variables
+@import '~bootstrap/scss/bootstrap.scss';
+
+.responsive{
+    max-width: 100vw;
+}
+body {
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: black;
+  
+}

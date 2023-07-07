@@ -1,0 +1,4 @@
+1. Extract the zip file to your local
+2. Open the root in Code Editor
+3. Run Npm Install
+4. And finally Npm Start to run the App
